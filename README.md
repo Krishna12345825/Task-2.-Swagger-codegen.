@@ -18,6 +18,8 @@ curl or any other HTTP client.
 -  Viewing Created Actor
 -  Deleting a Created Actor
 -  Updating the Created actor	
+-  Swagger UI
+
 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image0.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
