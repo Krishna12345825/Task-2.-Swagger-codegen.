@@ -26,3 +26,8 @@ curl or any other HTTP client.
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image5.png)
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image6.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image7.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image8.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image9.png)
+![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image10.png)
+![](https://github.com/Krishna12345825/Task-2.-Swagger-codegen./blob/main/images/Screenshot%20(20).png)
