@@ -20,16 +20,38 @@ curl or any other HTTP client.
 -  Updating the Created actor	
 -  Swagger UI
 
-
+## Mongodb Databases
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image0.png)
+
+## Project Folder Structure
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
+
+## Add  the data into Postman 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image2.png)
+
+## Get all the data into Postman 
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image3.png)
+
+## Get the Data By Id
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
+
+## Update all the data
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image5.png)
+
+## Delete the Data By Id
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image6.png)
+
+## Update the Mobile Number
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image7.png)
+
+## Swagger API Document Interface
 ![](https://github.com/Krishna12345825/Task-2.-Swagger-codegen./blob/main/images/image8.png)
+
+## Swagger Operation Controller
 ![](https://github.com/Krishna12345825/Task-2.-Swagger-codegen./blob/main/images/image9.png)
+
+## Swagger Basic Error Controller
 ![](https://github.com/Krishna12345825/Task-2.-Swagger-codegen./blob/main/images/image10.png)
+
+## Swagger Model
 ![](https://github.com/Krishna12345825/Task-2.-Swagger-codegen./blob/main/images/Screenshot%20(20).png)
